@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    /*externa*/
+    padding: 0;
+    /*interna*/
+}
+
+body {}
+
+#geral {
+    width: 1065px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Topo {
+    width: 1065px;
+    height: 100px;
+    background: red;
+}
+
+#Solar {
+    width: 1065px;
+    height: 350px;
+    background: rgb(0, 0, 12);
+}
+
+#Produto {
+    width: 1065px;
+    height: 350px;
+    background: rgb(0, 0, 12);
+}
+
+#Energia {
+    width: 1065px;
+    height: 350px;
+    background: rgb(0, 0, 12);
+}
+
+#Pedido {
+    width: 1065px;
+    height: 350px;
+    background: rgb(0, 0, 12);
+}
+
+#Rodape {
+    width: 1065px;
+    height: 100px;
+    background: rgb(0, 0, 12);
+}
+
+.titulo1 {
+    font-family: Verdana, Geneva, Tahoma;
+    font-size: 16pt;
+    color: #0091b6;
+    padding: 10px;
+}
+
+#listlink {
+    list-style: none;
+    list-style-type: none;
+    text-align: right;
+}
+
+#listlink li {
+    display: inline;
+    padding-right: 20px;
+    line-height: 100px;
+}
